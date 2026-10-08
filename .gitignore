@@ -1,0 +1,18 @@
+# Raw source media (optimised versions live in images/)
+/*.png
+/*.mp4
+
+# Backups / unrelated pages
+backup-light-version.html
+ltx-world-model.html
+
+# Local tooling and build leftovers
+.claude/
+deploy/
+*.zip
+node_modules/
+.vercel/
+
+# OS files
+Thumbs.db
+.DS_Store
